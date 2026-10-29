@@ -7,7 +7,8 @@ Requis:
 - WinRar ou alternatives
 Y'aura juste à glisser dans le dossier OMSI 2/Vehicles.
 --------------------
-Ce mod est protégé par une licence Tout Droits Réservés.
-Kowzii (aka iwxbe) - 2026
+
+***Il est formellement INTERDIT de réupload ce mod en dehors de ses canaux officiels (Omsistuff)***<br>
+***Tous droits réservés - Kowzi - 2026***
 
 Obtenable ici: https://omsistuff.fr/pack/litetexs-iveco-urbanway-et-crealis-np/1538
